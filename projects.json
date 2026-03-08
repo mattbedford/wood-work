@@ -63,6 +63,24 @@
       ]
     },
     {
+      "slug": "japanese-workbench-v2",
+      "title": "Japanese-style workbench V2",
+      "description": "Another Japanese-inspired workbench; top is in maple woord while the legs are in zebrano (of all things!). It features dog holes, plane stop and both side and end-vices. The legs extend only just beyond the width of the bench body and are cut straight, with a 15° incline for longitudinal support.",
+      "date": "2023-06-12",
+      "tags": [
+        "Tools",
+      ],
+      "material": "Maple, zebrano",
+      "mainImage": "main.webp",
+      "gallery": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp"
+      ]
+    },
+    {
       "slug": "japanese-style-tool-box",
       "title": "Japanese-style tool box",
       "description": "A wooden tool box, built from solid cherry wood with ash features. Actually, the top lid is hinged, which distinguishes it from the genuine Japanese tradition for tool boxes (and which use a wedge arrangement to close the box and keep it shut). It features a pull handle on the front of the box and a subset drawer on steel runners.",
